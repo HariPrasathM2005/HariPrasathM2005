@@ -50,12 +50,5 @@
 </p>
 
 ---
-<p align="center">
-  <img src="assets/problem-solving.png" alt="Problem Solving Badge" width="90"/>
-  <img src="assets/java.png" alt="Java Badge" width="90"/>
-  <img src="assets/c.png" alt="C Badge" width="90"/>
-  <img src="assets/python.png" alt="Python Badge" width="90"/>
-  <img src="assets/sql.png" alt="SQL Badge" width="90"/>
-</p>
 
 ✨ *“Code. Create. Innovate.”*
