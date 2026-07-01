@@ -43,7 +43,11 @@
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-000?style=for-the-badge&logo=hackerearth)](https://www.hackerearth.com/@mo.hariprasath)
 
 ---
+## 📈 LeetCode Activity
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Hari_Prasath_M_2005?theme=dark&font=Baloo&ext=activity" />
+</p>
 ## 📊 GitHub Stats
 
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
